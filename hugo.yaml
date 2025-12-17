@@ -1,0 +1,12 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Carlos Archive
+caches:
+  images:
+    dir: :cacheDir/images
+theme: hugo-PaperMod
+params:
+  homeInfoParams:
+    Title: Hi there!
+    Content: This is a place for me to write about anything I've learned over the years.
+  ShowReadingTime: true
