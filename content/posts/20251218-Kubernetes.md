@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes"
-summary: A brief intro to Kubernetes
+summary: 
 date: 2025-12-21
 series: ["PaperMod"]
 weight: 1
