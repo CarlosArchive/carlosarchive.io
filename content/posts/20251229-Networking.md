@@ -33,6 +33,8 @@ Data Link
 
 Physical
 
+I'll explain each layer in a bit more detail, but before that I will briefly explain the how data flows using the model and a few more things before I get into it.
+
 ### Encapsulation
 
 Data flows from the top-down when outgoing, and from the bottom-up when incoming.
@@ -44,9 +46,11 @@ Headers consist of information that help the receiving machine understand and or
 
 ### Network Protocols
 
-I'll now explain each layer in a little bit more detail, but before that I will briefly define network protocols. Network protocols are simply a set of rules which standardise how devices talk to each other. There are many different protocols for different purposes, which allows us to break down complex tasks into simpler ones by having protocols for specific tasks. 
+Network protocols are simply a set of rules which standardise how devices talk to each other. There are many different protocols for different purposes, which allows us to break down complex tasks into simpler ones by having protocols for specific tasks. 
 
 An example of this could be that Internet Protocol (IP) is used for handling routing between networks, whilst Ethernet handles communication and discovery of devices within the local network.
+
+Now to the layers!
 
 ## OSI Layers
 
