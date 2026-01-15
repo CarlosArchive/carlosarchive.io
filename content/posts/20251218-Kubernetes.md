@@ -25,7 +25,7 @@ However, virtual servers still imitated bare metal servers. With containers, dev
 
 ## What is Kubernetes made of?
 
-Kubernetes consists of a services that are deployed to your computing resources (physical or virtual). These services combined create a Kubernetes cluster, comprised of a control plane and worker nodes. A control plane consists of the kube-apiserver (which exposes the Kubernetes API), the kube-controller-manager, the etcd key-value store and the kube-scheduler (which is responsible for scheduling Pods onto Nodes). More on the etcd key-value store and the controller-manager later.
+Kubernetes consists of several services that are deployed to your computing resources (physical or virtual). These services combined create a Kubernetes cluster, comprised of a control plane and worker nodes. A control plane consists of the kube-apiserver (which exposes the Kubernetes API), the kube-controller-manager, the etcd key-value store and the kube-scheduler (which is responsible for scheduling Pods onto Nodes). More on the etcd key-value store and the controller-manager later.
 
 ## The control plane
 

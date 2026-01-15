@@ -8,5 +8,5 @@ theme: hugo-PaperMod
 params:
   homeInfoParams:
     Title: Hi there!
-    Content: This is a place for me to write about anything I feel the need to write about.
+    Content: This is a place for me to write about anything I feel the need to write about. These articles will probably mostly be technical, ranging from basic intros to oddly specific or niche.
   ShowReadingTime: true
