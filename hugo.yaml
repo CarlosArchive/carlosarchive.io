@@ -8,5 +8,5 @@ theme: hugo-PaperMod
 params:
   homeInfoParams:
     Title: Hi there!
-    Content: This is a place for me to write about anything I'm learning, or learned over the years.
+    Content: This is a place for me to write about anything I feel the need to write about.
   ShowReadingTime: true
